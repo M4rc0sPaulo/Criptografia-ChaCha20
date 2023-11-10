@@ -1,0 +1,17 @@
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\Criptografia-ChaCha20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\Criptografia-ChaCha20.AssemblyInfoInputs.cache
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\Criptografia-ChaCha20.AssemblyInfo.cs
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\Criptografia-ChaCha20.csproj.CoreCompileInputs.cache
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\bin\Debug\net7.0\Criptografia-ChaCha20.exe
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\bin\Debug\net7.0\Criptografia-ChaCha20.deps.json
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\bin\Debug\net7.0\Criptografia-ChaCha20.runtimeconfig.json
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\bin\Debug\net7.0\Criptografia-ChaCha20.dll
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\bin\Debug\net7.0\Criptografia-ChaCha20.pdb
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\Criptografia-ChaCha20.csproj.AssemblyReference.cache
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\Criptografia-ChaCha20.csproj.CopyComplete
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\Criptografia-ChaCha20.dll
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\refint\Criptografia-ChaCha20.dll
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\Criptografia-ChaCha20.pdb
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\Criptografia-ChaCha20.genruntimeconfig.cache
+C:\Users\Kaned\OneDrive\Documentos\RotaLimpa\Criptografia-ChaCha20\Criptografia-ChaCha20\obj\Debug\net7.0\ref\Criptografia-ChaCha20.dll
